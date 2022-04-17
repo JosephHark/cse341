@@ -1,0 +1,26 @@
+{
+  "name": "lesson-1",
+  "version": "1.0.0",
+  "description": "Lesson 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JosephHark/Lesson-1.git"
+  },
+  "author": "Joseph Hark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JosephHark/Lesson-1/issues"
+  },
+  "homepage": "https://github.com/JosephHark/Lesson-1#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon":"2.0.15"
+  }
+}
