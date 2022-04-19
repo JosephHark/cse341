@@ -1,0 +1,23 @@
+{
+    "contact":{
+        "Firstname": "Jonathan",
+        "Lastname": "Hark",
+        "email": "jhark578@gmail.com",
+        "birthday": "05/20/1997",
+        "favColor": "Light Green"
+    },
+    "contact2":{
+        "Firstname": "Memory",
+        "Lastname": "Siebach",
+        "email": "mhark@verzion.net",
+        "birthday": "07/12/1963",
+        "favColor": "Dark Blue"
+    },
+    "contact3":{
+        "Firstname": "Jack",
+        "Lastname": "Hosler",
+        "email": "JackH@yahoo.com",
+        "birthday": "04/15/2001",
+        "favColor": "Red"
+    }
+}
